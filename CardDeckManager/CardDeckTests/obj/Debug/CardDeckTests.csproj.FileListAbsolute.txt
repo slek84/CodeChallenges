@@ -1,0 +1,7 @@
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\bin\Debug\CardDeckTests.dll
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\bin\Debug\CardDeckTests.pdb
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\bin\Debug\CardDeckManagerConsole.exe
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\bin\Debug\CardDeckManagerConsole.pdb
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\obj\Debug\CardDeckTests.csprojResolveAssemblyReference.cache
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\obj\Debug\CardDeckTests.dll
+c:\users\kelson\documents\visual studio 2015\Projects\CardDeckManagerConsole\CardDeckTests\obj\Debug\CardDeckTests.pdb
