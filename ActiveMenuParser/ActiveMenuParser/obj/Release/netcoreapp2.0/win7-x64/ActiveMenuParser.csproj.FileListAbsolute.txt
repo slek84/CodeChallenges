@@ -1,0 +1,14 @@
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.exe
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.deps.json
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.runtimeconfig.json
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.runtimeconfig.dev.json
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.dll
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.pdb
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.csprojAssemblyReference.cache
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.csproj.CoreCompileInputs.cache
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.AssemblyInfoInputs.cache
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.AssemblyInfo.cs
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.dll
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\win7-x64\ActiveMenuParser.pdb

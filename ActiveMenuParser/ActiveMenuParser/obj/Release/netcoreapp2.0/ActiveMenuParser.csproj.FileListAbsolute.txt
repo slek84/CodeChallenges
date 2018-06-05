@@ -1,0 +1,11 @@
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\ActiveMenuParser.deps.json
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\ActiveMenuParser.runtimeconfig.json
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\ActiveMenuParser.runtimeconfig.dev.json
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\ActiveMenuParser.dll
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\bin\Release\netcoreapp2.0\ActiveMenuParser.pdb
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\ActiveMenuParser.csproj.CoreCompileInputs.cache
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\ActiveMenuParser.AssemblyInfoInputs.cache
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\ActiveMenuParser.AssemblyInfo.cs
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\ActiveMenuParser.dll
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\ActiveMenuParser.pdb
+C:\Users\Kelson\Source\Repos\ActiveMenuParser\ActiveMenuParser\obj\Release\netcoreapp2.0\ActiveMenuParser.csprojAssemblyReference.cache

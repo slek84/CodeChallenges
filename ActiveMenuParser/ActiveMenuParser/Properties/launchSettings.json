@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ActiveMenuParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Kelson\\Downloads\\Wyvern Menu.txt\" \"/PASS/Pending/PendingRequests.aspx\""
+    }
+  }
+}
