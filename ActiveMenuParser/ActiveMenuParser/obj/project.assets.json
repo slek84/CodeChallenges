@@ -2449,11 +2449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelson\\Source\\Repos\\ActiveMenuParser\\ActiveMenuParser\\ActiveMenuParser.csproj",
+      "projectUniqueName": "C:\\Users\\Kelson\\Source\\Repos\\CodeChallenges\\ActiveMenuParser\\ActiveMenuParser\\ActiveMenuParser.csproj",
       "projectName": "ActiveMenuParser",
-      "projectPath": "C:\\Users\\Kelson\\Source\\Repos\\ActiveMenuParser\\ActiveMenuParser\\ActiveMenuParser.csproj",
+      "projectPath": "C:\\Users\\Kelson\\Source\\Repos\\CodeChallenges\\ActiveMenuParser\\ActiveMenuParser\\ActiveMenuParser.csproj",
       "packagesPath": "C:\\Users\\Kelson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelson\\Source\\Repos\\ActiveMenuParser\\ActiveMenuParser\\obj\\",
+      "outputPath": "C:\\Users\\Kelson\\Source\\Repos\\CodeChallenges\\ActiveMenuParser\\ActiveMenuParser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
